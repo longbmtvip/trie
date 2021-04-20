@@ -1,0 +1,5 @@
+1. Trong 2 từ bell và belly thì muốn xóa 1 từ như nào ?
+2. Thêm 1 từ như thế nào ?
+3. Thêm 1 từ trong compressed trie thế nào ?
+4. Search từ bull trong bully ?
+5. Xóa 1 từ thành phần (vd: comp) trong compressed ?
